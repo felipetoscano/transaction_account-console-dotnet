@@ -1,4 +1,4 @@
-# transaction-account
+# Simulador de Transações Bancárias
 Projeto em C# que realiza algumas operações em uma conta bancária, utilizando o Design Pattern State
 
 Neste exemplo, precisamos observar o estado da conta bancária para realizar as operações de depósito e saque. Por exemplo, caso o saldo esteja "Negative", o cliente não poderá realizar saques. 
